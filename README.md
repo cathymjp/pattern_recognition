@@ -5,3 +5,8 @@
 
 * Tool: Jupyter
 * Language: Python
+
+### Classifiers
+- Random Forest
+- kNN
+- 
